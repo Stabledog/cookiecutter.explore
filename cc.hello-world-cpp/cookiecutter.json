@@ -1,4 +1,5 @@
 {
+    "app_name": "hello-world",
     "main_module": "hello",
     "greeting": "world",
     "directory_name": "hello-world-cpp"
